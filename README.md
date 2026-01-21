@@ -5,26 +5,24 @@
 Welcome to the **Pirate's Harbor**. This is a curated archive of digital treasures, game finds, and interesting corners of the Web.
 We do not host files here. We point the way.
 
-## 🗺️ Navigation
-*   [🎮 Games](#-games)
-*   [🛠️ Software](#-software)
-*   [📚 Library](#-library)
+## 🗺️ The Map (Categories)
+
+### 🎮 [Games Directory](Games/)
+*   **[Shooters (FPS)](Games/Shooters/)**
+    *   [Doom: Brutal Edition](Games/Shooters/Doom_Brutal.md)
+*   *Planned: RPG, Strategy, Indie...*
+
+### 🛠️ [Software Directory](Software/)
+*   *Coming soon (WinRAR, Adobe patches, etc)*
+
+### 🕸️ [Internet Artifacts](Artifacts/)
+*   *Coming soon (Cool sites, forgotten web corners)*
 
 ---
 
-## 🎮 Games
-
-### [Doom: Brutal Edition (Project Brutality)]
-*   **Genre:** FPS / Old School Shooter
-*   **Description:** The ultimate gory modernization of the classic Doom. Blood, guts, and heavy metal.
-*   **Download / Source:**
-    *   [🔗 Go to Post (Download & Info)](https://t.me/YOUR_TELEGRAM_CHANNEL_HERE/POST_ID) - *Link to specific Telegram post*
-    *   [🌐 Official ModDB Page](https://www.moddb.com/mods/brutal-doom) - *Original source*
-
----
-
-## 📜 Manifesto
-This repository serves as an index map.
-1.  **Safety:** No executables hosted here. Only text and links.
-2.  **Preservation:** If the original site dies, the Telegram mirror often survives.
-3.  **Freedom:** Sharing knowledge is not a crime.
+## 📜 Meaning
+This repository acts as a **Library Card Catalog**.
+Instead of scrolling through one giant list, browse the folders to find detailed dossiers on each treasure.
+Each file contains:
+1.  Description of the artifact.
+2.  Link to the **Telegram Storage** (where the actual bounty lies).
